@@ -444,3 +444,6 @@ MODEL OUTPUT:
 **WRITE_OFF_WINDUP:** No write-off, no wind
 ------------------------------------------------------------------------------
 ==============================================================================
+
+### AFTER LORA TRAINING
+still training didn't get time for lora results
